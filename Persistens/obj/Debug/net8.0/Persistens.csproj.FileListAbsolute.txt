@@ -1,0 +1,15 @@
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\bin\Debug\net8.0\Persistens.exe
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\bin\Debug\net8.0\Persistens.deps.json
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\bin\Debug\net8.0\Persistens.runtimeconfig.json
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\bin\Debug\net8.0\Persistens.dll
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\bin\Debug\net8.0\Persistens.pdb
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.AssemblyInfoInputs.cache
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.AssemblyInfo.cs
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.csproj.CoreCompileInputs.cache
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.sourcelink.json
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.dll
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\refint\Persistens.dll
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.pdb
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\Persistens.genruntimeconfig.cache
+C:\Users\lival\OneDrive\Projekter\Hjemmeprojekter\Persistens\obj\Debug\net8.0\ref\Persistens.dll
